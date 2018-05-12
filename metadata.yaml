@@ -1,0 +1,31 @@
+_repo: Tom-Swift-and-the-Electronic-Hydrolung_19258
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brey, Charles
+    gutenberg_agent_id: '8565'
+    url: http://www.gutenberg.org/2009/agents/8565
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Appleton, Victor, II
+    gutenberg_agent_id: '42251'
+    url: http://www.gutenberg.org/2009/agents/42251
+description: ''
+gutenberg_issued: '2006-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The new Tom Swift Jr. adventures, 18
+subjects:
+- !lcsh 'Swift, Tom (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Science fiction'
+title: Tom Swift and the Electronic Hydrolung
+url: http://www.gutenberg.org/ebooks/19258
